@@ -8,5 +8,5 @@ package com.yidu.bean;
  */
 public class User {
     private String name="lxl";
-    private String pass=123456;
+    private String pass="123456";
 }
